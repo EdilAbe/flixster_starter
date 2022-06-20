@@ -1,1 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
 
+}
+ 
+form {
+    display: flex;
+    align-items: baseline;
+}
+
+#page{
+    font-size: larger;
+    padding: 5px;
+    margin: 20px;
+}
+
+#searchBar{
+    padding: 5px;
+    margin: 20px;
+}
+
+container{
+    margin: 5px;
+    padding: 20px;
+    background-color:  rgb(61, 52, 40);
+}
+
+#header{
+    display:flex;
+    justify-content:space-between;
+    color:rgb(221, 206, 206);
+}
+
+body{
+    background-color: rgb(69, 61, 51); 
+    color:rgb(221, 206, 206);
+}
+
+#submit{
+    background-color:  rgb(61, 52, 40);
+    padding: 5px;
+    margin: 20px;
+    color: white;
+    border-color: rgb(61, 52, 40) ;
+}
+
+#searchResults{
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: center;
+}
+
+#movie-grid{
+    margin: 2em;
+    padding: 20px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 15px;
+
+}
+
+.movieTitle{
+    color: rgb(221, 206, 206);
+    overflow: hidden;
+}
+
+.movie-card:hover{
+    transform: scale(1.05);
+}
+
+.movie-card{
+    background-color: white;
+    margin: 30px;
+    width: 350px;
+    position: relative;
+}
