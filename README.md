@@ -1,5 +1,3 @@
-
-
 ## Week 1 Assignment: Flixster
 
 Submitted by: Edilawit
@@ -34,7 +32,7 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 #### STRETCH FEATURES
 
-- [ ] Deploy website using GitHub Pages. 
+- [ ] Deploy website using GitHub Pages.
 - [ ] Allow user to view more details about a movie within a popup.
 - [ ] Improve the user experience through CSS & animation.
 - [ ] Allow movie video trailers to be played using [embedded YouTube](https://support.google.com/youtube/answer/171780?hl=en)
@@ -42,25 +40,26 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
+![](https://github.com/EdilAbe/flixster_starter/blob/main/walkthroughproject1.gif)
 
 `ADD_EMBEDDED_CODE_HERE`
 
 ### Reflection
 
-* Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
+- Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
 I think working on the labs throughout the week did prepare me for this project. To be specific, the first lab showed me how to use different css properties to make a page responsive. From the second lab, I learned how to use DOM methods to reference element and add event listeners. And the third introduced me how to use API to make HTTP request and add HTML to a web page.
 
-* If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
-  
+- If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
+
 If I had more time, I would add stretch features to make the page more user-friendly. I would add a popup with a discription and preview of each movie.
 
-* Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
+- Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-
+I was missing some features for the demo day.
 
 ### Open-source libraries used
 
-
 ### Shout out
 
+Shout out to the TAs and Moe.
